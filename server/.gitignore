@@ -1,0 +1,11 @@
+node_modules/
+.env
+build/
+dist/
+artifacts/
+cache/
+coverage/
+*.zip
+*.log
+.idea/
+.DS_Store
